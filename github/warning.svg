@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72"
+   height="72"
+   viewBox="0 0 72 72"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-alert-triangle"
+   version="1.1"
+   id="svg921"
+   sodipodi:docname="warning.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/jwittouck/workspaces/streamdeck/github/warning.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs925" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview923"
+     showgrid="false"
+     inkscape:zoom="12.34375"
+     inkscape:cx="12.667621"
+     inkscape:cy="34.037664"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg921" />
+  <ellipse
+     style="fill:#777777;stroke:none;stroke-width:2.61;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+     id="path929"
+     cx="35.999996"
+     cy="36"
+     rx="28.695015"
+     ry="28.695019" />
+  <path
+     d="M 33.774764,23.844751 22.752599,45.093748 a 2.6026364,3.0055159 0 0 0 2.225254,4.508273 h 22.044329 a 2.6026364,3.0055159 0 0 0 2.225256,-4.508273 L 38.225272,23.844751 a 2.6026364,3.0055159 0 0 0 -4.450508,0 z"
+     id="path915"
+     style="stroke:#ffffff;stroke-width:2.79596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="36.000019"
+     y1="31.56893"
+     x2="36.000019"
+     y2="37.579964"
+     id="line917"
+     style="stroke:#ffffff;stroke-width:2.79596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="36.000019"
+     y1="43.590988"
+     x2="36.013031"
+     y2="43.590988"
+     id="line919"
+     style="stroke:#ffffff;stroke-width:2.79596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

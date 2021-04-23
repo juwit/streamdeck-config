@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14"
+   height="14"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg191"
+   sodipodi:docname="status_running.svg"
+   inkscape:export-filename="/home/jwittouck/workspaces/streamdeck/gitlab/status_running.png"
+   inkscape:export-xdpi="493.70999"
+   inkscape:export-ydpi="493.70999"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs195" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview193"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="33.285714"
+     inkscape:cx="-0.36051502"
+     inkscape:cy="7"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g189" />
+  <g
+     fill-rule="evenodd"
+     id="g189">
+    <path
+       d="M0 7a7 7 0 1 1 14 0A7 7 0 0 1 0 7z"
+       id="path183"
+       style="fill:#007bff;fill-opacity:1" />
+    <path
+       d="M13 7A6 6 0 1 0 1 7a6 6 0 0 0 12 0z"
+       fill="#FFF"
+       style="fill: var(--svg-status-bg, #fff);"
+       id="path185" />
+    <path
+       d="M7 3c2.2 0 4 1.8 4 4s-1.8 4-4 4c-1.3 0-2.5-.7-3.3-1.7L7 7V3"
+       id="path187"
+       style="fill:#007bff;fill-opacity:1" />
+  </g>
+</svg>
