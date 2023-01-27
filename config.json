@@ -7,28 +7,28 @@
       "buttons": [
         {
           "key": 0,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/gitmoji.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/gitmoji.png",
           "switch_page": "gitmoji-1"
         },
         {
           "key": 1,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/Base-Icon.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/Base-Icon.png",
           "switch_page": "theme-hospital"
         },
         {
           "key": 2,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/teams.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/teams.png",
           "switch_page": "teams"
         },
         {
           "key": 3,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/brightness-100.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-100.png",
           "switch_page": "keylight"
           
         },
         {
           "key": 4,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/github.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/github.png",
           "switch_page": "github"
         }
       ]
@@ -39,76 +39,76 @@
         {
           "key": 0,
           "write": "🎨 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/art.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/art.png"
         },
         {
           "key": 1,
           "write": "✨ : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/zap.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/zap.png"
         },
         {
           "key": 2,
           "write": "\ud83d\udd25 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/fire.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/fire.png"
         },
         {
           "key": 3,
           "write": "\ud83d\udc1b : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/bug.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/bug.png"
         },
         {
           "key": 4,
           "write": "\u2728 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/sparkles.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/sparkles.png"
         },
         {
           "key": 5,
           "write": "\ud83d\udcdd : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/memo.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/memo.png"
         },
         {
           "key": 6,
           "write": "\ud83d\udc84 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/lipstick.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/lipstick.png"
         },
         {
           "key": 7,
           "write": "\u2705 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/white_check_mark.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/white_check_mark.png"
         },
         {
           "key": 8,
           "write": "\ud83d\udd12 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/lock.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/lock.png"
         },
         {
           "key": 9,
           "write": "\ud83d\udd16 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/bookmark.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/bookmark.png"
         },
         {
           "key": 10,
           "write": "\ud83d\udc9a : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/green_heart.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/green_heart.png"
         },
         {
           "key": 11,
           "write": "\u2b06 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/arrow_up.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/arrow_up.png"
         },
         {
           "key": 12,
           "write": "\ud83d\udccc : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/pushpin.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/pushpin.png"
         },
         {
           "key": 13,
           "write": "\ud83d\udc77 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/construction_worker.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/construction_worker.png"
         },
         {
           "key": 14,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/next-page.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/next-page.png",
           "switch_page": "gitmoji-2"
         }
       ]
@@ -119,61 +119,61 @@
         {
           "key": 0,
           "write": "\u267b : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/recycle.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/recycle.png"
         },
         {
           "key": 1,
           "write": "\u2795 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/heavy_plus_sign.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/heavy_plus_sign.png"
         },
         {
           "key": 2,
           "write": "\ud83d\udd27 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/wrench.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/wrench.png"
         },
         {
           "key": 3,
           "write": "\ud83d\udd00 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/twisted_rightwards_arrows.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/twisted_rightwards_arrows.png"
         },
         {
           "key": 4,
           "write": "\ud83d\ude9a : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/truck.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/truck.png"
         },
         {
           "key": 5,
           "write": "\ud83c\udf71 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/bento.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/bento.png"
         },
         {
           "key": 6,
           "write": "\ud83d\udca1 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/bulb.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/bulb.png"
         },
         {
           "key": 7,
           "write": "\ud83d\udd0a : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/loud_sound.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/loud_sound.png"
         },
         {
           "key": 8,
           "write": "\ud83d\ude48 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/see_no_evil.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/see_no_evil.png"
         },
         {
           "key": 9,
           "write": "\ud83c\udfd7 : ",
-          "icon": "/home/jwittouck/workspaces/streamdeck/gitmoji/building_construction.png"
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/building_construction.png"
         },
         {
           "key": 10,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/home.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
         },
         {
           "key": 14,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/next-page.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/next-page.png",
           "switch_page": "gitmoji-1"
         }
       ]
@@ -183,43 +183,43 @@
       "buttons": [
         {
           "key": 0,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/Base-Icon.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/Base-Icon.png",
           "command": "/home/jwittouck/.steam/steam/steamapps/common/TPH/TPH.x86_64"
         },
         {
           "key": 3,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/staff.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/staff.png",
           "keys": "shift+&"
         },
         {
           "key": 4,
           "keys": "shift+\u00e9",
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/patients.png"
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/patients.png"
         },
         {
           "key": 8,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/boredom.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/boredom.png",
           "command": "xdotool key 87"
         },
         {
           "key": 9,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/temperature.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/temperature.png",
           "command": "xdotool key 88"
         },
         {
           "key": 10,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/home.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
         },
         {
           "key": 13,
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/pause.png",
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/pause.png",
           "keys": "space"
         },
         {
           "key": 14,
           "command": "xdotool key 86",
-          "icon": "/home/jwittouck/workspaces/streamdeck/two-point-hospital/fast-up.png"
+          "icon": "/home/jwittouck/.config/streamdeck/two-point-hospital/fast-up.png"
         }
       ]
     },
@@ -228,33 +228,33 @@
       "buttons": [
         {
           "key": 10,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/home.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
         },
         {
           "key": 4,
-          "icon": "/home/jwittouck/workspaces/streamdeck/teams/available.png",
-          "command": "/home/jwittouck/workspaces/streamdeck/teams/change_status_teams.sh available"
+          "icon": "/home/jwittouck/.config/streamdeck/teams/available.png",
+          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh available"
         },
         {
           "key": 9,
-          "icon": "/home/jwittouck/workspaces/streamdeck/teams/busy.png",
-          "command": "/home/jwittouck/workspaces/streamdeck/teams/change_status_teams.sh busy"
+          "icon": "/home/jwittouck/.config/streamdeck/teams/busy.png",
+          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh busy"
         },
         {
           "key": 14,
-          "icon": "/home/jwittouck/workspaces/streamdeck/teams/away.png",
-          "command": "/home/jwittouck/workspaces/streamdeck/teams/change_status_teams.sh away"
+          "icon": "/home/jwittouck/.config/streamdeck/teams/away.png",
+          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh away"
         },
         {
           "key": 3,
-          "icon": "/home/jwittouck/workspaces/streamdeck/teams/mute-technology.png",
-          "command": "/home/jwittouck/workspaces/streamdeck/teams/mute_teams.sh"
+          "icon": "/home/jwittouck/.config/streamdeck/teams/mute-technology.png",
+          "command": "/home/jwittouck/.config/streamdeck/teams/mute_teams.sh"
         },
         {
           "key": 8,
-          "icon": "/home/jwittouck/workspaces/streamdeck/teams/camera.png",
-          "command": "/home/jwittouck/workspaces/streamdeck/teams/switch_camera_teams.sh"
+          "icon": "/home/jwittouck/.config/streamdeck/teams/camera.png",
+          "command": "/home/jwittouck/.config/streamdeck/teams/switch_camera_teams.sh"
         }
       ]
     },
@@ -263,47 +263,47 @@
       "buttons": [
         {
           "key": 10,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/home.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
         },
         {
           "key": 13,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/off.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/off.png",
           "command": "keylight off"
         },
         {
           "key": 14,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/on.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/on.png",
           "command": "keylight on"
         },
         {
           "key": 1,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/brightness-20.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-20.png",
           "command": "keylight brightness 20"
         },
         {
           "key": 2,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/brightness-50.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-50.png",
           "command": "keylight brightness 50"
         },
         {
           "key": 3,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/brightness-100.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-100.png",
           "command": "keylight brightness 80"
         },
         {
           "key": 6,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/cold.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/cold.png",
           "command": "keylight color 7000"
         },
         {
           "key": 7,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/balanced.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/balanced.png",
           "command": "keylight color 4950"
         },
         {
           "key": 8,
-          "icon": "/home/jwittouck/workspaces/streamdeck/keylight/warm.png",
+          "icon": "/home/jwittouck/.config/streamdeck/keylight/warm.png",
           "command": "keylight color 2900"
         }
       ]
@@ -313,7 +313,7 @@
       "buttons": [
         {
           "key": 10,
-          "icon": "/home/jwittouck/workspaces/streamdeck/home/home.png",
+          "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
         }
       ]
