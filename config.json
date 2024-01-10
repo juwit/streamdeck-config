@@ -172,6 +172,11 @@
           "switch_page": "home"
         },
         {
+          "key": 11,
+          "write": "🚧 : ",
+          "icon": "/home/jwittouck/.config/streamdeck/gitmoji/construction.png"
+        },
+        {
           "key": 14,
           "icon": "/home/jwittouck/.config/streamdeck/home/next-page.png",
           "switch_page": "gitmoji-1"
@@ -264,42 +269,42 @@
         {
           "key": 13,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/off.png",
-          "command": "keylight off"
+          "command": "/opt/keylight-cli/bin/keylight-cli off"
         },
         {
           "key": 14,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/on.png",
-          "command": "keylight on"
+          "command": "/opt/keylight-cli/bin/keylight-cli on"
         },
         {
           "key": 1,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-20.png",
-          "command": "keylight brightness 20"
+          "command": "/opt/keylight-cli/bin/keylight-cli brightness 20"
         },
         {
           "key": 2,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-50.png",
-          "command": "keylight brightness 50"
+          "command": "/opt/keylight-cli/bin/keylight-cli brightness 50"
         },
         {
           "key": 3,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/brightness-100.png",
-          "command": "keylight brightness 80"
+          "command": "/opt/keylight-cli/bin/keylight-cli brightness 80"
         },
         {
           "key": 6,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/cold.png",
-          "command": "keylight color 7000"
+          "command": "/opt/keylight-cli/bin/keylight-cli color 7000"
         },
         {
           "key": 7,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/balanced.png",
-          "command": "keylight color 4950"
+          "command": "/opt/keylight-cli/bin/keylight-cli color 4950"
         },
         {
           "key": 8,
           "icon": "/home/jwittouck/.config/streamdeck/keylight/warm.png",
-          "command": "keylight color 2900"
+          "command": "/opt/keylight-cli/bin/keylight-cli color 2900"
         }
       ]
     },
