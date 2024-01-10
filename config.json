@@ -17,8 +17,8 @@
         },
         {
           "key": 2,
-          "icon": "/home/jwittouck/.config/streamdeck/home/teams.png",
-          "switch_page": "teams"
+          "icon": "/home/jwittouck/.config/streamdeck/home/meet.png",
+          "switch_page": "meet"
         },
         {
           "key": 3,
@@ -224,37 +224,32 @@
       ]
     },
     {
-      "name": "teams",
+      "name": "meet",
       "buttons": [
+        {
+          "key": 0,
+          "icon": "/home/jwittouck/.config/streamdeck/meet/microphone.png",
+          "keys": "ctrl+d"
+        },
+        {
+          "key": 1,
+          "icon": "/home/jwittouck/.config/streamdeck/meet/video.png",
+          "keys": "ctrl+e"
+        },
+        {
+          "key": 11,
+          "icon": "/home/jwittouck/.config/streamdeck/meet/meet.png",
+          "command": "firefox https://meet.google.com?authuser=julien.wittouck@gmail.com"
+        },
+        {
+          "key": 12,
+          "icon": "/home/jwittouck/.config/streamdeck/meet/codekaio.png",
+          "command": "firefox https://meet.google.com?authuser=julien@codeka.io"
+        },
         {
           "key": 10,
           "icon": "/home/jwittouck/.config/streamdeck/home/home.png",
           "switch_page": "home"
-        },
-        {
-          "key": 4,
-          "icon": "/home/jwittouck/.config/streamdeck/teams/available.png",
-          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh available"
-        },
-        {
-          "key": 9,
-          "icon": "/home/jwittouck/.config/streamdeck/teams/busy.png",
-          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh busy"
-        },
-        {
-          "key": 14,
-          "icon": "/home/jwittouck/.config/streamdeck/teams/away.png",
-          "command": "/home/jwittouck/.config/streamdeck/teams/change_status_teams.sh away"
-        },
-        {
-          "key": 3,
-          "icon": "/home/jwittouck/.config/streamdeck/teams/mute-technology.png",
-          "command": "/home/jwittouck/.config/streamdeck/teams/mute_teams.sh"
-        },
-        {
-          "key": 8,
-          "icon": "/home/jwittouck/.config/streamdeck/teams/camera.png",
-          "command": "/home/jwittouck/.config/streamdeck/teams/switch_camera_teams.sh"
         }
       ]
     },
